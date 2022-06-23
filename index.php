@@ -5,3 +5,5 @@ require_once 'app/config.php';
 
 // renderiza de la vista
 get_view('index');
+
+//prueba de git
