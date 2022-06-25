@@ -3,7 +3,5 @@
 require_once 'app/config.php';
 // echo $web_url;
 
-// renderiza de la vista
+//renderiza de la vista
 get_view('index');
-
-//prueba de git
